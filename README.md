@@ -22,6 +22,8 @@
 >[!Tip]
 >If you use Claude to build web applications, do yourself a favor and use [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) to avoid getting hacked.
 
+> 📋 Looking for a flat list of all **86 skills**? See [SKILLS_LIST.md](SKILLS_LIST.md)
+
 
 ## 📄 Document Skills  
 - [docx](https://github.com/anthropics/skills/tree/main/skills/docx) - Create, edit, analyze Word docs with tracked changes, comments, formatting.  
